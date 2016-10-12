@@ -11,5 +11,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         //prova a caricare solo questo file
+        //questo è il primo commento che inserisco
     }
 }
