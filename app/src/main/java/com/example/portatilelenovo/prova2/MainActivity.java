@@ -19,5 +19,7 @@ public class MainActivity extends AppCompatActivity {
 
         //non so cosa scrivere
 
+        //magari posso sparlare di qualcuno
+
     }
 }
