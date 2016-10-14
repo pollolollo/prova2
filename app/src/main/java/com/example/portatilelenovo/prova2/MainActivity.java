@@ -23,5 +23,7 @@ public class MainActivity extends AppCompatActivity {
 
         //Frank si e' preso la sd da 128gb solo per salvare porno in 4k
 
+        System.out.println("CIAO beo!");
+
     }
 }
