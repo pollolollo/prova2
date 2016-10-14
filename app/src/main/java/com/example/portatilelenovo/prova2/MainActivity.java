@@ -21,5 +21,7 @@ public class MainActivity extends AppCompatActivity {
 
         //magari posso sparlare di qualcuno
 
+        //Frank si e' preso la sd da 128gb solo per salvare porno in 4k
+
     }
 }
