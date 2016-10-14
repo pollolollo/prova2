@@ -28,5 +28,7 @@ public class MainActivity extends AppCompatActivity {
         //
         // ho cancellato la riga sopra
 
+        // ottimo
+
     }
 }
