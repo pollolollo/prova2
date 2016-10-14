@@ -25,7 +25,8 @@ public class MainActivity extends AppCompatActivity {
 
         System.out.println("CIAO beo!");
 
-        //riga da cancellare
+        //
+        // ho cancellato la riga sopra
 
     }
 }
